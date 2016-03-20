@@ -1,4 +1,4 @@
-package com.example.rian.myfirstapp;
+package com.example.asus.myfirstapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
